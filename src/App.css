@@ -1,0 +1,28 @@
+#root {
+  width: 100%;
+  text-align: center;
+}
+
+header {
+  padding: 2rem 1rem;
+
+  h1 {
+    font-size: 2rem;
+  }
+}
+
+footer {
+  min-height: 8rem;
+}
+
+.style__video-scene___1EaKs {
+    height: 100vh;
+    z-index: 0;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
