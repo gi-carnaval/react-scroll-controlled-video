@@ -6,7 +6,7 @@ Este projeto tenta recriar uma experiência interativa onde vídeos avançam con
 
 ## 🚀 Demonstração
 
-<img src="./react-scroll-controlled-video-demo.gif"/>
+![](public/react-scroll-controlled-video-demo.gif)
 
 ---
 
