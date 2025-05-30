@@ -33,7 +33,7 @@ O comportamento é dividido em segmentos de scroll que controlam individualmente
 Clone o projeto e instale as dependências:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repo.git
-cd nome-do-repo
+git clone https://github.com/gi-carnaval/react-scroll-controlled-video/blob/main/README.md
+cd react-scroll-controlled-video
 npm install
 npm run dev
