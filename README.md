@@ -6,7 +6,7 @@ Este projeto tenta recriar uma experiência interativa onde vídeos avançam con
 
 ## 🚀 Demonstração
 
-<img src="./react-scroll-controlled-video-demo.gif"/>
+![](react-scroll-controlled-video-demo.gif)
 
 ---
 
@@ -33,7 +33,7 @@ O comportamento é dividido em segmentos de scroll que controlam individualmente
 Clone o projeto e instale as dependências:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repo.git
-cd nome-do-repo
+git clone https://github.com/gi-carnaval/react-scroll-controlled-video/blob/main/README.md
+cd react-scroll-controlled-video
 npm install
 npm run dev
